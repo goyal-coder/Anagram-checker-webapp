@@ -20,15 +20,6 @@ Jumble Genie is a simple and interactive anagram checker that helps you determin
 3. The algorithm sorts the letters and compares them.  
 4. If both words contain the same letters in a different order, they are anagrams! 🎉  
 
-## 📞 Contact Me
-Feel free to reach out:  
-- 📧 Email: [nandunandinigoyal@gmail.com](mailto:nandunandinigoyal@gmail.com)  
-- 📌 Telegram: [Frontend Dev Hub](https://t.me/frontend_dev_hub)  
-- 📸 Instagram: [@pookie_.ly](https://www.instagram.com/pookie_.ly)  
-- 🎥 YouTube: [Hindu.pulse](https://www.youtube.com/@Hindu.pulse)  
-
----
-
 ### ⭐ Don't forget to star this repository if you find it useful! ⭐
 
 
